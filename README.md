@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# EDS POC
+This is a project for doing POC on the Adobe Edge Delivery Services
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds-poc--b-sreenivas.aem.page/
+- Live: https://main--eds-poc--b-sreenivas.aem.live/
 
 ## Installation
 
